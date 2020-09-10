@@ -9,8 +9,8 @@ steps in hadoop installation:
 * 3.Running Hadoop
 ## map_reduce.ipynb
 upload mapper.py and reducer.py 
-   ### * mapper.py
+   ### mapper.py
    It will read data from *STDIN, split it into words and output a list of lines mapping words to their counts to *STDOUT.
 
-   ### * reducer.py
-   It will read the results of mapper.py from *STDIN  and sum the occurrences of each word to a final count, and then output its results to *STDOUT.
+   ### reducer.py
+   It will read the results of mapper.py from STDIN  and sum the occurrences of each word to a final count, and then output its results to STDOUT.
