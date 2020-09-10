@@ -1,5 +1,5 @@
 # Hadoop
-## This contain how to install hadoop on google colab and how to run mapreduce in hadoop.
+### This contain how to install hadoop on google colab and how to run mapreduce in hadoop.
 
 ## 1. Hadoop_install.py
 #### This file contain hadoop installation on google colab.
