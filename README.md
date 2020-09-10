@@ -7,7 +7,7 @@ steps in hadoop installation:
 * 1.Installing hadoop using this link : https://downloads.apache.org/hadoop/common/hadoop-3.3.0/hadoop-3.3.0.tar.gz
 * 2.Configuring Hadoop’s Java Home : Hadoop requires that you set the path to Java, either as an environment variable or in the Hadoop configuration file.
 * 3.Running Hadoop
-## map_reduce.ipynb
+## 2. map_reduce.ipynb
 upload mapper.py and reducer.py 
    ### mapper.py
    It will read data from *STDIN, split it into words and output a list of lines mapping words to their counts to *STDOUT.
